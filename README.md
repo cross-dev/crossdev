@@ -10,7 +10,7 @@ be configured:
 ```
 [tools]
 SigLevel = Never
-Server = http://52.30.213.60:8000/tools/os/x86_64
+Server = http://52.30.213.60:8000/$repo/os/$arch
 ```
 
 Then:
