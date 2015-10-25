@@ -7,6 +7,7 @@ depends=('kconfig-frontends'
          'make'
          'grep'
          'fakeroot'
+         'pkg-config'
          'file')
 
 package() {
